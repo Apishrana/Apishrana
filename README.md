@@ -5,6 +5,10 @@
 
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36430)](https://codetime.dev/en/user/36430)
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=30433&timezone=Asia%2FKolkata&theme=dark">
+<img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=30433&timezone=Asia%2FKolkata&theme=light">
+</picture>
 
 <!--
 **Apishrana/Apishrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
