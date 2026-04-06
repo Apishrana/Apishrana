@@ -8,7 +8,6 @@
 
 ---
 ### My Hackatime stats
-
 <picture>
   <img alt="Hackatime activity heatmap" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30433&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
 </picture>
@@ -16,6 +15,9 @@
 <picture>
   <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=30433&timezone=Asia%2FKolkata&rounding=50&labels=true&theme=dark">
 </picture>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
     
 <!--
 **Apishrana/Apishrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
