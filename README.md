@@ -24,7 +24,7 @@
 ---
 ## Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apishrana\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apishrana\&theme=github-dark)
 <!--
 **Apishrana/Apishrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
