@@ -33,6 +33,7 @@
 
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![Fritzing](https://img.shields.io/badge/Fritzing-EA5B0C?style=for-the-badge&logo=fritzing&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Tools & Platforms
