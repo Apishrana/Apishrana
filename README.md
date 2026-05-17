@@ -7,7 +7,7 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36430)](https://codetime.dev/en/user/36430)
 
 ---
-### My Hackatime stats
+## My Hackatime stats
 <a href='https://hackatime.hackclub.com/@ApishRana' target="_blank" rel="noopener noreferrer">
 <picture>
   <img alt="Hackatime activity heatmap" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30433&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
@@ -20,6 +20,11 @@
 <!--END_SECTION:waka-->
     
 </a>
+
+---
+## Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apishrana\&theme=tokyo-night)
 <!--
 **Apishrana/Apishrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
