@@ -8,7 +8,7 @@
 
 ---
 ### My Hackatime stats
-<a href='https://hackatime.hackclub.com/@ApishRana' target="_blank">
+<a href='https://hackatime.hackclub.com/@ApishRana' target="_blank" rel="noopener noreferrer">
 <picture>
   <img alt="Hackatime activity heatmap" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30433&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
 </picture>
