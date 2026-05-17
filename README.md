@@ -38,7 +38,7 @@
 
 <p align="center">
   
-<img align="center" src="https://streak-stats.demolab.com?user=Apishrana&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=49%2C000000%2C001F37&stroke=517B9F" alt="GitHub Streak" />
+<img align="center" src="https://streak-stats.demolab.com?user=Apishrana&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=49%2C000000%2C001F37&stroke=517B9F&border=FFFFFF36" alt="GitHub Streak" />
 </p>
 
 ---
