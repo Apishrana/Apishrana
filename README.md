@@ -1,12 +1,6 @@
 
-<!--
-## Hi there 👋
--->
+# Hi, I'm Apish Rana
 
-
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36430)](https://codetime.dev/en/user/36430)
-
----
 
 ## Tech Stack
 
@@ -27,9 +21,17 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ---
-## My Hackatime stats
 
-<p align="center">
+## My stats
+
+### CodeTime
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36430)](https://codetime.dev)
+
+---
+
+### Hackatime 
+
 <a href='https://hackatime.hackclub.com/@ApishRana' target="_blank" rel="noopener noreferrer">
 <picture>
   <img alt="Hackatime activity heatmap" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30433&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
@@ -38,30 +40,24 @@
 <picture>
   <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=30433&timezone=Asia%2FKolkata&rounding=50&labels=true&theme=dark">
 </picture>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- START_SECTION:waka-->
+<!--END_SECTION:waka -->
 </a>
-</p>
+
 
 ---
 
-## Contribution Graph
-<p align="center">
+### Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apishrana\&theme=github-dark)
 
-</p>
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  
-<img align="center" src="https://streak-stats.demolab.com?user=Apishrana&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=49%2C000000%2C001F37&stroke=517B9F&border=FFFFFF36" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Apishrana&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=49%2C000000%2C001F37&stroke=517B9F&border=FFFFFF36" alt="GitHub Streak" />
 
----
 
 <!--
 **Apishrana/Apishrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
